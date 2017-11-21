@@ -2,7 +2,7 @@ Package.describe({
   name: "ajaybhatia:autoform-file",
   summary: "File upload for AutoForm",
   description: "File upload for AutoForm",
-  version: "0.0.1",
+  version: "0.1.1",
   git: "https://github.com/ajaybhatia/meteor-autoform-file.git"
 });
 
