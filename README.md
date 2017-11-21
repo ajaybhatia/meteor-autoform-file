@@ -6,9 +6,6 @@ Upload and manage files with autoForm. Since yogiben:autoform-file is outdated a
 with latest version of aldeed:autoform (v6.x.x), aldeed:collection2-core and npm based
 simpl-schema dependency package by aldeed therefore this is the newly modified version of yogibe:autoform-file package to work with newer version of these packages.
 
-![Meteor autoform file](https://raw.githubusercontent.com/ajaybhatia/meteor-autoform-file/master/readme/1.png)
-
-
 ### Quick Start ###
 1) Install `meteor add ajaybhatia:autoform-file`
 
